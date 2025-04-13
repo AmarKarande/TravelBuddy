@@ -1,7 +1,7 @@
 # Travel Buddy
 
 
-![TravelBuddy](https://github.com/RahulBharti330/travel-buddy/assets/108974464/8375425f-7ce4-4bca-8885-ab3ef05c0946)
+![TravelBuddy](https://github.com/AmarKarande/TravelBuddy)
 
 
 
