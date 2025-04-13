@@ -1,7 +1,7 @@
 # Travel Buddy
 
 
-![TravelBuddy](https://github.com/AmarKarande/TravelBuddy)
+![TravelBuddy](https://github.com/AmarKarande/TravelBuddy/blob/main/assets/Travel-BuddyOutput.jpg)
 
 
 
