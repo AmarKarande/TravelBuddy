@@ -24,4 +24,4 @@ Setup: run ``npm start``` to start the development server
 
 ##Website 
 
-[Travel Buddy]()
+[Travel Buddy](https://travelbuddyadviser.netlify.app/)
